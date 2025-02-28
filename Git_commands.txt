@@ -59,8 +59,8 @@ git commit --ammend ->1.press i for edit
 3. :wq then press enter
 Note->for push file in remote
 step 1. git remote add origin https://github.com/skysumitkumar/repository.git->with this we map local branch to github remote branch
-step 2. git config --global user.name “skysumitkumar”
-step 3. git config --global user.email “sky3081999@gmail.com”
+step 2. git config --global user.name “seemakumari2002”
+step 3. git config --global user.email “seemakumari200207@gmail.com”
 step 4. git push -u origin master
 	4.1 ask for username->username	
 	4.2ask for password ->token no
