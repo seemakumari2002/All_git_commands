@@ -94,8 +94,8 @@ git push -u origin main
 
 git rm --cached filename:-to remove the file 
 First time push data to github
-git config --global user.name "skysumitkumar"
-git config --global user.email sky3081999@gmail.com
+git config --global user.name "seemakumari2002"
+git config --global user.email seemakumari20007@gmail.com
 git remote orign 
 git init
 git add .
